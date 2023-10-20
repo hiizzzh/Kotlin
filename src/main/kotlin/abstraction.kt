@@ -20,3 +20,17 @@ fun main() {
     // Calling abstract method
     // Calling abstract method
 }
+
+// Interface
+/*
+* 1. Нету тел у методов
+* 2. Мы можем имплементировать сколько угодно интерфейсов
+*
+*
+* */
+// Abstarct class
+/*
+* 1. Можно делать все то, что и с обычным классом
+* 2.
+*
+* */
